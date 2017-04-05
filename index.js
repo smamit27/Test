@@ -5,7 +5,7 @@ directiveApp.directive("kid",function(){
     return{
         restrict:'E',
         template:'<input type="text" ng-model="score">{{score}}'
-    }
+    }""
 });
 
 // AngularJS - Directive Restrictions
